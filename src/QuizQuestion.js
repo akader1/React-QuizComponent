@@ -1,7 +1,7 @@
-import React, {Component} from  'react'
+import React, { Component } from  'react'
 
-Public void QuizQuestion() extends Component{
-render(){
+Public void QuizQuestion() extends Component {
+render() {
 
 }
 <main>
