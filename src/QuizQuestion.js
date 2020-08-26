@@ -1,9 +1,9 @@
 import React { Component } from 'react'
 
-Public void QuizQuestion() extends Component {
+class QuizQuestion extends Component{
+
 render() {
 
-}
 <main>
       <section>
         <p> this.pros
@@ -11,10 +11,11 @@ render() {
       <section className="buttons">
         <ul>
           <li>
-          this.props.quiz_question.answer_options[0];
+           this.props.quiz_question.answer_options[0];
           </li>
         </ul>
       </section>
     </main>
+}
 }
 export default QuizQuestion
